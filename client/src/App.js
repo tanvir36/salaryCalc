@@ -1,10 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './components/navbar/navbar';
+import Body from './components/body/body';
 function App() {
   return (
     <div className="App">
-      <div className="bg-danger">
-        <h1>This is testing bootstrap</h1>
-      </div>
+      
+      <Navbar/>
+     
     </div>
   );
 }
