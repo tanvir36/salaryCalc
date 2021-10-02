@@ -5,7 +5,7 @@ function Navbar (){
        <div className="myNavbar container-xl" >
            <ul className="myNavbar__container">
                 <li className= "myNavbar__container--items">SalaryCalc</li>
-                <li className= "myNavbar__container--items">Add New Person</li>
+                <li className= "myNavbar__container--items">+Add New Person</li>
            </ul>
        </div>
     );
